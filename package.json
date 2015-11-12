@@ -1,0 +1,30 @@
+{
+  "name": "react-material-components",
+  "version": "1.0.0",
+  "description": "React Material Component Tutorial https://syncano.io/blog/getting-started-reactjs-tutorial/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandemiccreative/react-material-components.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Justin Hurt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandemiccreative/react-material-components/issues"
+  },
+  "homepage": "https://github.com/pandemiccreative/react-material-components#readme",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "jsx-transform": "^2.2.1",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2",
+    "velocity": "^0.7.2",
+    "velocity-animate": "^1.2.3"
+  }
+}
